@@ -1,0 +1,1 @@
+The rock upon which all the danger that a Warmaid represents is their ability to create battle-milk. 
