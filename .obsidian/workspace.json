@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "089613c9ba8a4def",
+    "type": "split",
+    "children": [
+      {
+        "id": "30ce11fd0a5b7797",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d942928eac2bfbb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Famous Warmaids.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "966a7280301ec951",
+    "type": "split",
+    "children": [
+      {
+        "id": "8471a7a82af048ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d854fa9ec60f6d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7a370e0ac096096",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63a0da817de06710",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd6c2f60a2922307",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c7492fe012ac925",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b047e4e0e6a2352",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Famous Warmaids.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8783c32242b4f247",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Famous Warmaids.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "725188325b53435e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cdaf31604d7af9f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Famous Warmaids.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d942928eac2bfbb7",
+  "lastOpenFiles": [
+    "World Info/Battle Milk.md",
+    "World Info/Equipment and Materials/Arbor's Solution.md",
+    "World Info/Equipment and Materials/Adamantite.md"
+  ]
+}
